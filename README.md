@@ -1,6 +1,4 @@
-# Take Home Challenge
-
-## Conversational Form Builder
+# Conversational Form Builder
 
 It has two sections
 -  List of possible Question/Answer components
