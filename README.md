@@ -13,6 +13,6 @@ The flow creator can drag and drop these elements in the canvas to create the co
 
 When a component is dropped inside the canvas, a modal appears that allows the flow creator to fill in the details like for a simple question component the flow creator can mention the question title.
 
-## Conversation Widget
+# Conversation Widget
 
 A chat widget alike UI component where the user can engage with the questions created in the conversation flow
